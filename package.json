@@ -1,0 +1,15 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "A simple CI/CD demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["ci-cd"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
